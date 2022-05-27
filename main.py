@@ -10,7 +10,7 @@ By a mouse click position, a number of iterations and a preprocessing image para
 the MorphGAC algorithm [1] searches for the optimal object contour.
 
 The GUI implementation enables to perform a Semi-automated segmentation in a simple manner,
-created as part of this research [2] for ultrasound breast tumors segmentation.
+created as part of a research including an ultrasound breast tumors segmentation [2].
 The algorithm and its theoretical derivation are described in [1].
 
 If you use this implementation please cite the following papers:
