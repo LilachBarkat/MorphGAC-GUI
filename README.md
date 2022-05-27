@@ -9,6 +9,9 @@ The GUI implementation enables to perform a Semi-automated segmentation in a sim
 created as part of this research [2] for ultrasound breast tumors segmentation.
 The algorithm and its theoretical derivation are described in [1].
 
+![image](https://user-images.githubusercontent.com/67235383/170678083-16dcfed8-af07-4894-9364-5c1c4bad50e0.png)
+
+
 If you use this implementation please cite the following papers:
 
    [1] A Morphological Approach to Curvature-based Evolution of Curves and
