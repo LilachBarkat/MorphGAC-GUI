@@ -9,7 +9,7 @@ The GUI implementation enables to perform a Semi-automated segmentation in a sim
 created as part of this research [2] for ultrasound breast tumors segmentation.
 The algorithm and its theoretical derivation are described in [1].
 
-![image](https://user-images.githubusercontent.com/67235383/170678083-16dcfed8-af07-4894-9364-5c1c4bad50e0.png)
+![image](https://user-images.githubusercontent.com/67235383/170678265-7e33ca89-02e5-4899-9241-aac73f1f00f6.png)
 
 
 If you use this implementation please cite the following papers:
