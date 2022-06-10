@@ -22,6 +22,8 @@ You may need to adjust the preprocessing image parameters for your specific data
 - **sigma**: Standard deviation of the Gaussian filter.
 
 
+
+# Citation
 If you use this implementation please cite the following papers:
 
    [1] A Morphological Approach to Curvature-based Evolution of Curves and
