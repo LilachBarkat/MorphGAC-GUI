@@ -2,7 +2,7 @@
 Semi-automated segmentation GUI
 
 This work provides a GUI for a Semi-automated segmentation.
-By a **mouse click position**, a **number of iterations** and a preprocessing image parameters,
+By **a mouse click position**, **a number of iterations** and **a preprocessing image parameters**,
 the MorphGAC algorithm [1] searches for the optimal object contour.
 
 The GUI implementation enables to perform a Semi-automated segmentation in a simple manner,
