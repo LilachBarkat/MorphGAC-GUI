@@ -12,9 +12,10 @@ The algorithm and its theoretical derivation are described in [1].
 ![image](https://user-images.githubusercontent.com/67235383/170678265-7e33ca89-02e5-4899-9241-aac73f1f00f6.png)
 
 To install the GUI dependencies:
-'''
+
+```
 conda env create -f environment.yml
-'''
+```
 
 You may need to adjust the preprocessing image parameters for your data: 
 - **alpha**: Controls the steepness of the inverse gaussian gradient filter.
