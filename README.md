@@ -23,10 +23,10 @@ You may need to adjust the **preprocessing image parameters** for your specific 
 - **alpha**: Controls the steepness of the Gaussian filter.
 - **sigma**: Standard deviation of the Gaussian filter.
 
-According to the scikit-image [documentation](https://scikit-image.org/docs/stable/api/skimage.segmentation.html#skimage.segmentation.inverse_gaussian_gradient)
+According to the [scikit-image documentation](https://scikit-image.org/docs/stable/api/skimage.segmentation.html#skimage.segmentation.inverse_gaussian_gradient)
 
 
-</br>
+
 ### Citation
 If you use this implementation please cite the following papers:
 
