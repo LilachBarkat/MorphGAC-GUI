@@ -17,9 +17,9 @@ To install the GUI dependencies:
 conda env create -f environment.yml
 ```
 
-You may need to adjust the preprocessing image parameters for your data: 
-- **alpha**: Controls the steepness of the inverse gaussian gradient filter.
-- **sigma**: Standard deviation of the Gaussian filter applied over the image.
+You may need to adjust the preprocessing image parameters for your specific data (For the inverse gaussian gradient filter which displayed in the center): 
+- **alpha**: Controls the steepness of the Gaussian filter.
+- **sigma**: Standard deviation of the Gaussian filter.
 
 
 If you use this implementation please cite the following papers:
