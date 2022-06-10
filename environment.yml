@@ -1,0 +1,13 @@
+name: Segmentation-GUI
+channels:
+- defaults
+dependencies:
+- python=3.6
+- numpy
+- pandas
+- matplotlib
+- conda-forge::opencv
+- anaconda::scikit-image
+
+
+
