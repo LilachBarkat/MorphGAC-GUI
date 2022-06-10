@@ -22,6 +22,7 @@ conda env create -f environment.yml
 You may need to adjust the **preprocessing image parameters** for your specific data (For the inverse gaussian gradient filter which displayed in the center): 
 - **alpha**: Controls the steepness of the Gaussian filter.
 - **sigma**: Standard deviation of the Gaussian filter.
+According to the scikit-image [documentation]([https://pages.github.com/](https://scikit-image.org/docs/stable/api/skimage.segmentation.html#skimage.segmentation.inverse_gaussian_gradient)
 
 
 
